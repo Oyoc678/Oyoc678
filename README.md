@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Ahmad (@Oyoc678)
+ 👋 Hi, I’m Muhammad Ahmad (@Oyoc678)
  - ------------------------------------
 - 👀 I’m interested in Web Dev, AI, Machine Learning, UI & UX design, prompt engineering, and Data Structures. 
 - 🌱 I’m currently learning the  React Language.
