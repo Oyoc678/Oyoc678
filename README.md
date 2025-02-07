@@ -1,4 +1,4 @@
-#  Hi 👋, I’m Muhammad Ahmad 🧑‍💻       
+#  Hi 👋, I’m Muhammad Ahmad      
     (@Oyoc678)
 ## ``An aspiring Australian software Engineer ``
  - ------------------------------------
