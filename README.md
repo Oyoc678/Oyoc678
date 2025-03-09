@@ -5,7 +5,8 @@
  ## About Me 
 - 👀 I’m interested in Web Dev, AI, ML, UI & UX design, prompt engineering, DS, and DevOps. 
 - 🌱 I’m currently learning **Neural Networks, Deep Learning, and NLP**.
-- 💬 me about **LLM's, API's, DevOps, and Django**
-- 📫 Feel free to contact me at: codecademy506@outlook.com
+- 💬  Ask me about **LLM's, API's, DevOps, and Django**
+- 📫 Feel free to contact me at: codecademy506@outlook.com 
+  
   
 
